@@ -1,0 +1,12 @@
+.boxCentro{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(78, 78, 67);
+    justify-content:space-around;
+    
+}
+.BoxMoeda{
+    background-color: rgb(228, 214, 94);
+    border-radius: 3%;
+    padding:2%
+}
